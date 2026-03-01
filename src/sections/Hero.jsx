@@ -2,5 +2,5 @@
 
 
 export const Hero = () => {
-  return <section>srgsg</section>;
+  return <section></section>;
 };
